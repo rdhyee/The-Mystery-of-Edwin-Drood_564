@@ -1,0 +1,40 @@
+_repo: The-Mystery-of-Edwin-Drood_564
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: When young Edwin Drood mysteriously disappears from the quiet cathedral
+  town of Cloisterham, foul play seems certain. The prime suspect is John Jasper,
+  Edwin's uncle, who frequents the dark opium underworld and conceals a secret passion
+  beneath his church choir respectability. Paul Scofield captures the haunting, occasionally
+  humorous atmosphere and the many colorful characters in this unusual crime novel.
+  Dickens' entertaining story is even more of a mystery than he intended, for he died
+  before the work was completed.
+gutenberg_bookshelf: Mystery Fiction
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Separation (Psychology) -- Fiction'
+- !lcsh 'Choral conductors -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Cathedrals -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Missing persons -- Fiction'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: The Mystery of Edwin Drood
+url: http://www.gutenberg.org/ebooks/564
